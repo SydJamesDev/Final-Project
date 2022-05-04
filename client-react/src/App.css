@@ -1,0 +1,29 @@
+html {
+  background-color: #24292e;
+}
+
+ul {
+  list-style: none;
+}
+
+li {
+  margin: 20px;
+  border: thin solid black;
+  background-color: cornflowerblue;
+}
+
+p, h1, label {
+  text-align: center;
+  color: white;
+}
+
+form {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+}
+
+#MainPage {
+  text-align: center;
+}
